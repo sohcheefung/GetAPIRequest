@@ -1,0 +1,10 @@
+c:\users\chee-fung.soh\documents\visual studio 2013\Projects\APIGETRequest\APIGETRequest\obj\Debug\APIGETRequest.csprojResolveAssemblyReference.cache
+c:\users\chee-fung.soh\documents\visual studio 2013\Projects\APIGETRequest\APIGETRequest\bin\Debug\APIGETRequest.pdb
+c:\users\chee-fung.soh\documents\visual studio 2013\Projects\APIGETRequest\APIGETRequest\bin\Debug\Newtonsoft.Json.dll
+c:\users\chee-fung.soh\documents\visual studio 2013\Projects\APIGETRequest\APIGETRequest\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\chee-fung.soh\documents\visual studio 2013\Projects\APIGETRequest\APIGETRequest\bin\Debug\Newtonsoft.Json.xml
+c:\users\chee-fung.soh\documents\visual studio 2013\Projects\APIGETRequest\APIGETRequest\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\chee-fung.soh\documents\visual studio 2013\Projects\APIGETRequest\APIGETRequest\obj\Debug\APIGETRequest.pdb
+C:\Users\chee-fung.soh\Documents\Visual Studio 2013\Projects\APIGETRequest\APIGETRequest\bin\Debug\APIGETRequest.exe.config
+C:\Users\chee-fung.soh\Documents\Visual Studio 2013\Projects\APIGETRequest\APIGETRequest\bin\Debug\APIGETRequest.exe
+C:\Users\chee-fung.soh\Documents\Visual Studio 2013\Projects\APIGETRequest\APIGETRequest\obj\Debug\APIGETRequest.exe
